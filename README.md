@@ -22,7 +22,7 @@ Each function of ChatVRM mainly uses the following technologies
 
 ## Demo
 
-[https://chatvrm.hoangnguyenvu.dev](https://chatvrm.hoangnguyenvu.dev)
+[https://chatvrm.nguyenvu.dev](https://chatvrm.nguyenvu.dev)
 
 ## Installation
 
