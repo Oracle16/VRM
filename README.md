@@ -15,11 +15,6 @@ Each function of ChatVRM mainly uses the following technologies
 - Displaying 3D characters
   - [@pixiv/three-vrm](https://github.com/pixiv/three-vrm)
 
-![home.png](./images/home.png)
-![settings-1.png](./images/settings-1.png)
-![settings-2.png](./images/settings-2.png)
-![settings-3.png](./images/settings-3.png)
-
 ## Demo
 
 [https://chatvrm.nguyenvu.dev](https://chatvrm.nguyenvu.dev)
